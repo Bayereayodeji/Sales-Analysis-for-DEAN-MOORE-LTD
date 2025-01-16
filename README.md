@@ -15,6 +15,9 @@ Recommendations
 2.	Implement staff development programs for the "Channel Partners" segment, potentially sharing best practices from the successful "Government" segment to enhance performance.
 
 Dataset Source: Kaggle.com
+
 Tools: Microsoft Excel
+
 Analysis by Bayere Reuben Ayodeji, under mentorship from Vephla University Data School
+
 #VephlaUni #Kaggle #DataAnalytics
